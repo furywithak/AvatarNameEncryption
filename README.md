@@ -1,3 +1,13 @@
+#AvatarName_ExcelExtraction
+
+To use the program, you'll need to install openpyxl.
+  Select Preferences from PyCharm
+  Select Project Interpreter
+  Click the Plus in the bottom corner
+  Type openpyxl
+
+Run the program, and on the console all the names will show up.
+
 # AvatarNameEncryption
 Simple program to encrypt names using sha256 hash.
 
